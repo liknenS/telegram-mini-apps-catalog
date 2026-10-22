@@ -316,6 +316,15 @@
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#55",
       "lastChecked": "2026-10-19",
       "status": "ok"
+    },
+    {
+      "name": "Aura",
+      "url": "https://t.me/you_aura_bot",
+      "description": "Random 1-on-1 video chat with people worldwide, inside Telegram. Swipe to the next person, filter matches by language, and play built-in icebreaker games.",
+      "category": "Products",
+      "contributedBy": "skeep83",
+      "lastChecked": "2026-10-22",
+      "status": "ok"
     }
   ]
 }
