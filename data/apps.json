@@ -54,6 +54,15 @@
       "status": "ok"
     },
     {
+      "name": "Petto",
+      "url": "https://t.me/PettoGameBot",
+      "description": "Virtual pet game in the spirit of a tamagotchi: raise a kitten, puppy, hamster, bunny or chick, or add the bot to a group chat to raise one shared pet together. Free, in English, Russian and Ukrainian.",
+      "category": "Games",
+      "contributedBy": "coldneuro",
+      "lastChecked": "2026-11-06",
+      "status": "ok"
+    },
+    {
       "name": "Playful Mind",
       "url": "https://t.me/playful_mind_bot/play?startapp=cat_awesome_tma",
       "description": "A small collection of calm brain games (memory & logic) — a few quiet minutes a day, free, no ads.",
